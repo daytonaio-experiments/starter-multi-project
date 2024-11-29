@@ -8,7 +8,7 @@ In this blog, we’ll walk you through using this feature to run a frontend app 
 
 ## Why Use Daytona?
 
-Daytona simplifies how developers set up and manage their workspaces, whether locally or in the cloud. It removes the hassle of manual configurations and makes development faster and more efficient.
+[Daytona](https://www.daytona.io/) simplifies how developers set up and manage their workspaces, whether locally or in the cloud. It removes the hassle of manual configurations and makes development faster and more efficient.
 
 Here’s what Daytona offers:
 
